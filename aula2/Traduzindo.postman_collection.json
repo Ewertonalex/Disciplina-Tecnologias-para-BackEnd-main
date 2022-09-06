@@ -1,0 +1,270 @@
+{
+	"info": {
+		"_postman_id": "c6ae62a3-ca4c-4fa6-8192-172e193a9939",
+		"name": "Traduzindo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21670395"
+	},
+	"item": [
+		{
+			"name": "Random advice",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.adviceslip.com/advice",
+					"protocol": "https",
+					"host": [
+						"api",
+						"adviceslip",
+						"com"
+					],
+					"path": [
+						"advice"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Advice by ID",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.adviceslip.com/advice/45",
+					"protocol": "https",
+					"host": [
+						"api",
+						"adviceslip",
+						"com"
+					],
+					"path": [
+						"advice",
+						"45"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Searching advice",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.adviceslip.com/advice/search/love",
+					"protocol": "https",
+					"host": [
+						"api",
+						"adviceslip",
+						"com"
+					],
+					"path": [
+						"advice",
+						"search",
+						"love"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Traduzindo para minions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.funtranslations.com/translate/minion?text=Build something out of LEGO.",
+					"protocol": "http",
+					"host": [
+						"api",
+						"funtranslations",
+						"com"
+					],
+					"path": [
+						"translate",
+						"minion"
+					],
+					"query": [
+						{
+							"key": "text",
+							"value": "Build something out of LEGO."
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Traduzindo para braille",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.funtranslations.com/translate/braille?text=Once in a while, eat some sweets you used to enjoy when you were younger.",
+					"protocol": "http",
+					"host": [
+						"api",
+						"funtranslations",
+						"com"
+					],
+					"path": [
+						"translate",
+						"braille"
+					],
+					"query": [
+						{
+							"key": "text",
+							"value": "Once in a while, eat some sweets you used to enjoy when you were younger."
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Traduzindo para yoda",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.funtranslations.com/translate/yoda?text=Build something out of LEGO.",
+					"protocol": "http",
+					"host": [
+						"api",
+						"funtranslations",
+						"com"
+					],
+					"path": [
+						"translate",
+						"yoda"
+					],
+					"query": [
+						{
+							"key": "text",
+							"value": "Build something out of LEGO."
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Tradução para Mandalorian",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "api.funtranslations.com/translate/mandalorian?text=You will always regret the round of Tequila.",
+					"host": [
+						"api",
+						"funtranslations",
+						"com"
+					],
+					"path": [
+						"translate",
+						"mandalorian"
+					],
+					"query": [
+						{
+							"key": "text",
+							"value": "You will always regret the round of Tequila."
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Traduzindo para dothraki",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.funtranslations.com/translate/dothraki?text=Build something out of LEGO.",
+					"protocol": "http",
+					"host": [
+						"api",
+						"funtranslations",
+						"com"
+					],
+					"path": [
+						"translate",
+						"dothraki"
+					],
+					"query": [
+						{
+							"key": "text",
+							"value": "Build something out of LEGO."
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Traduzindo para valyrian",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.funtranslations.com/translate/valyrian?text=Build something out of LEGO.",
+					"protocol": "http",
+					"host": [
+						"api",
+						"funtranslations",
+						"com"
+					],
+					"path": [
+						"translate",
+						"valyrian"
+					],
+					"query": [
+						{
+							"key": "text",
+							"value": "Build something out of LEGO."
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
