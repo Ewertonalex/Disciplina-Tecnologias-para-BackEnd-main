@@ -38,10 +38,13 @@
   - Atividade Cadastro de Estudante:<br>
   Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/tree/main/aula3/Cadastro%20de%20Estudante" target="_blank">aula3/Cadastro de Estudante</a>.
   
-  #### Atividade 4️⃣: Revisão de Java (Repetições, For, Array, While, Classes) - Aula 04
+#### Atividade 4️⃣: Revisão de Java (Repetições, For, Array, While, Classes) - Aula 04
   
    - Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/tree/main/aula4" target="_blank">aula4</a>
-         
+
+#### Atividade 5️⃣: Aula Iniciando o Spring Boot - Projeto Aluno Online
+
+- Para acessar a aula, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/tree/main/backend" target="_blank">backend</a>
 <div align="center">
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
