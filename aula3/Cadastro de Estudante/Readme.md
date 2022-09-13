@@ -2,25 +2,25 @@
  
  ### 🧾 Atividade: Cadastro de Estudante<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/Cadastro%20de%20Estudante/Enunciado%20da%20atividade.jpg" width=280>
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/Cadastro%20de%20Estudante/Enunciado%20da%20atividade.jpg" width=280>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Código<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/Cadastro%20de%20Estudante/codigo.jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/Cadastro%20de%20Estudante/codigo.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Saída - Estudante menor de idade<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/Cadastro%20de%20Estudante/Estudante%20menor%20de%20idade.jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/Cadastro%20de%20Estudante/Estudante%20menor%20de%20idade.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Saída - Estudante maior de idade<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/Cadastro%20de%20Estudante/estudante%20maior%20de%20idade.jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/Cadastro%20de%20Estudante/estudante%20maior%20de%20idade.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
