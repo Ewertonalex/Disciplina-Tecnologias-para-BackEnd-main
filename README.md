@@ -21,26 +21,26 @@
 
 #### Atividade 1️⃣: Hello Wolrd - Aula 01
 
-  - Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/tree/main/aula1" target="_blank">aula1</a>.
+  - Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/tree/main/aula1" target="_blank">aula1</a>.
   
 #### Atividade 2️⃣: Usando APIs no Postman (Tradução de frases) - Aula 02
 
-  - Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/tree/main/aula2" target="_blank">aula2</a>.
+  - Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/tree/main/aula2" target="_blank">aula2</a>.
 
 #### Atividade 3️⃣: Revisão de Java - Aula 03
 
   - Atividade Soma e Subtração:<br>
-  Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/tree/main/aula3/Soma%20e%20Subtra%C3%A7%C3%A3o" target="_blank">aula3/Soma e Subtração</a>.
+  Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/tree/main/aula3/Soma%20e%20Subtra%C3%A7%C3%A3o" target="_blank">aula3/Soma e Subtração</a>.
   
   - Atividade Média:<br>
-  Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/tree/main/aula3/M%C3%A9dia" target="_blank">aula3/Média</a>.
+  Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/tree/main/aula3/M%C3%A9dia" target="_blank">aula3/Média</a>.
   
   - Atividade Cadastro de Estudante:<br>
-  Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/tree/main/aula3/Cadastro%20de%20Estudante" target="_blank">aula3/Cadastro de Estudante</a>.
+  Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/tree/main/aula3/Cadastro%20de%20Estudante" target="_blank">aula3/Cadastro de Estudante</a>.
   
 #### Atividade 4️⃣: Revisão de Java (Repetições, For, Array, While, Classes) - Aula 04
   
-   - Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/tree/main/aula4" target="_blank">aula4</a>
+   - Para acessar a Atividade, entre na pasta  📁 <a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/tree/main/aula4" target="_blank">aula4</a>
 
 #### Atividade 5️⃣: Aula Iniciando o Spring Boot - Projeto Aluno Online
 
