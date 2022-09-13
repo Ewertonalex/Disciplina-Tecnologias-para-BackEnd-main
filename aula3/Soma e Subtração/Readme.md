@@ -2,13 +2,13 @@
  
  ### 🧾 Atividade: Soma e Subtração<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/Soma%20e%20Subtra%C3%A7%C3%A3o/Atividade%20Soma%20e%20Subtra%C3%A7%C3%A3o%20aula%2003.jpg" width=280>
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/Soma%20e%20Subtra%C3%A7%C3%A3o/Atividade%20Soma%20e%20Subtra%C3%A7%C3%A3o%20aula%2003.jpg" width=280>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Código e Saída<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/Soma%20e%20Subtra%C3%A7%C3%A3o/Resolu%C3%A7%C3%A3o%20Soma%20e%20Subtra%C3%A7%C3%A3o%20aula%2003.jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/Soma%20e%20Subtra%C3%A7%C3%A3o/Resolu%C3%A7%C3%A3o%20Soma%20e%20Subtra%C3%A7%C3%A3o%20aula%2003.jpg">
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)

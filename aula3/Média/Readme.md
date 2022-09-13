@@ -2,19 +2,19 @@
  
  ### 🧾 Atividade: Média<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/M%C3%A9dia/Enunciado%20da%20atividade.jpg" width=280>
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/M%C3%A9dia/Enunciado%20da%20atividade.jpg" width=280>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Código<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/M%C3%A9dia/resolu%C3%A7%C3%A3o%20media%20c%C3%B3digo.jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/M%C3%A9dia/resolu%C3%A7%C3%A3o%20media%20c%C3%B3digo.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Saída<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula3/M%C3%A9dia/resolu%C3%A7%C3%A3o%20media%20print(sa%C3%ADda).jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula3/M%C3%A9dia/resolu%C3%A7%C3%A3o%20media%20print(sa%C3%ADda).jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
