@@ -2,14 +2,14 @@
  
  ### 🧾 Atividade: Array Alunos<br><br><a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/ArrayAlunos.java" target="_blank">Array e Repetições For</a>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/img/atividade01.jpg" width=280>
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/img/atividade02.jpg" width=280>
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula4/img/atividade01.jpg" width=280>
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula4/img/atividade02.jpg" width=280>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Código<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/img/resativ02.jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula4/img/resativ02.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
