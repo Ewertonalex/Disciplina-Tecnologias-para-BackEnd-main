@@ -15,25 +15,25 @@
 
  ### 🧾 Atividade: While<br><br><a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/While.java" target="_blank">While</a>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/img/atividade03.jpg" width=280>
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula4/img/atividade03.jpg" width=280>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Código<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/img/resativ03.jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula4/img/resativ03.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 🧾 Atividade: Classes<br><br><a href="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/Ewerton.java" target="_blank">Classes</a>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/img/atividade4.jpg" width=280>
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula4/img/atividade4.jpg" width=280>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  ### 🧾 Resolução: Código<br><br>
 
-<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd/blob/main/aula4/img/resativ04.jpg">
+<img src="https://github.com/Ewertonalex/Disciplina-Tecnologias-para-BackEnd-main/blob/main/aula4/img/resativ04.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
